@@ -1,0 +1,7 @@
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\bin\Debug\Battleships.exe
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\bin\Debug\Battleships.pdb
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\bin\Debug\Battleships.Game.dll
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\bin\Debug\Battleships.Game.pdb
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.csprojResolveAssemblyReference.cache
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.exe
+C:\Users\shaleen\Documents\Visual Studio 2012\Projects\Battleships\Battleships\obj\x86\Debug\Battleships.pdb
